@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3HU7W4hB+HiAGgSPBTyTpa8UgLI/BV4fVlI9UhzN5p0sF8YstP0uj4VdP/T/6CaVAxK3fzYimaqmLaOVCJpUkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gerson\\Documents\\Prueba\\Producto.Application\\Producto.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gerson\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\gerson\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32fe363c-26de-4f0c-9caa-75090c4173d0": {
+      "ProjectGuid": "32fe363c-26de-4f0c-9caa-75090c4173d0",
+      "DisplayName": "Producto.Domain",
+      "ColorIndex": 0
+    },
+    "8fc08627-7714-457c-8abd-95474b6ebcc8": {
+      "ProjectGuid": "8fc08627-7714-457c-8abd-95474b6ebcc8",
+      "DisplayName": "Producto.Infrastructure",
+      "ColorIndex": 1
+    },
+    "7fee6ab5-8afe-411c-a851-65326f767ef5": {
+      "ProjectGuid": "7fee6ab5-8afe-411c-a851-65326f767ef5",
+      "DisplayName": "Producto.Application",
+      "ColorIndex": 2
+    },
+    "eeb62ce9-268f-4d4f-9e3d-2b47c9f386a5": {
+      "ProjectGuid": "eeb62ce9-268f-4d4f-9e3d-2b47c9f386a5",
+      "DisplayName": "Producto.Domain.Test",
+      "ColorIndex": 3
+    },
+    "35ab0660-f09f-4897-9cdf-2dfcf827beba": {
+      "ProjectGuid": "35ab0660-f09f-4897-9cdf-2dfcf827beba",
+      "DisplayName": "Producto.Api",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "fa017705-8bb9-479a-a7f1-9e3e899cdf2d": {
+      "ProjectGuid": "fa017705-8bb9-479a-a7f1-9e3e899cdf2d",
+      "DisplayName": "Producto.Application.Test",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
